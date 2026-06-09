@@ -48,6 +48,7 @@ Build-Depends:
  libxcb-xfixes0-dev (>= 1.10~),
  libopenjp2-7-dev,
  liblcms2-dev,
+ libminizip-dev,
  libdeepin-service-framework-dev,
  libheif-dev,
  libappimage-dev,
